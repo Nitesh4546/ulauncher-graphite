@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- Configuration (UPDATE THIS SECTION) ---
-REPO_URL="https://github.com/YourUsername/ulauncher-graphite.git" # <-- CHANGE THIS
+REPO_URL="https://github.com/Nitesh4546/ulauncher-graphite.git" # <-- CHANGE THIS
 TARGET_DIR="$HOME/.config/ulauncher/user-themes/"
 TEMP_DIR="ulauncher-graphite-temp"
 FOLDER_1="graphite-dark"
