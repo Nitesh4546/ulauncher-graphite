@@ -3,9 +3,9 @@ Ulauncher theme for my Graphite theme, thought I should share it.
 
 ## Screenshots
 ### Dark
-![](./ulauncher-graphite-dark/dark.png)
+![](./graphite-dark/dark.png)
 ### Light
-![]()
+![](./graphite-light/light.png)
 
 ## Installation
 
