@@ -11,6 +11,6 @@ Ulauncher theme for my Graphite theme, thought I should share it.
 
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
-git clone  \
+git clone  https://github.com/Nitesh4546/ulauncher-graphite.git\
   ~/.config/ulauncher/user-themes/
 ```
