@@ -1,5 +1,5 @@
-# Folly Theme Ulauncher
-Silly little folly red theme for ULauncher, batteries included :P
+# Graphite Theme Ulauncher
+Ulauncher theme for my Graphite theme, thought I should share it.
 
 ## Screenshots
 ### Dark
